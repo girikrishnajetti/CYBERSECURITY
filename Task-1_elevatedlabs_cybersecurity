@@ -1,7 +1,1 @@
-                                            CYBER SECURITY INTERNSHIP 
- 
-Task 1: Scan Your Local Network for Open Ports 
-Objective: Learn to discover open ports on devices in your local network to understand 
-network exposure. 
-Tools: Nmap, Wireshark. 
-Command used: sudo nmap -sS -T4 --open 192.XXX.XXX.0/24
+
