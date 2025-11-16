@@ -5,7 +5,7 @@ Objective: Learn to discover open ports on devices in your local network to unde
 network exposure. 
 Tools: Nmap, Wireshark. 
 Command used: sudo nmap -sS -T4 --open 192.XXX.XXX.0/24
-
+<img width="524" height="227" alt="Image" src="https://github.com/user-attachments/assets/65401c65-3734-4e98-a697-4178c79763c2" />
 
 
 
